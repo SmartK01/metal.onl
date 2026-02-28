@@ -6,7 +6,7 @@ It is open-source and community-editable.
 ## About
 
 Metal.onl is a curated links website maintained in this repo.  
-It includes HTML, CSS, and JavaScript that power the site’s pages.:contentReference[oaicite:2]{index=2}
+It includes HTML, CSS, and JavaScript that power the site’s pages
 
 ## Repository Contents
 
